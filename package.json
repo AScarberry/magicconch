@@ -1,0 +1,16 @@
+{
+  "name": "magicconchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/magicConch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.6.4",
+    "google": "^2.1.0",
+    "slackbots": "^0.3.0"
+  }
+}
